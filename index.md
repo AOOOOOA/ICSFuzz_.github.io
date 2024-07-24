@@ -96,6 +96,7 @@ The distinction may be because, at high collision speeds, the collision detector
 
 
 ![image](images/single_feature/single_feature_angle.png)
+
 The data trends of ICS SR related to angle in different scenarios align with the trend of high on both sides and low in the middle. 
 The fluctuations in the data result from some specific environmental settings.
 
