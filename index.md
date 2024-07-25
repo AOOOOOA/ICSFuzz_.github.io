@@ -138,12 +138,12 @@ Relationship between ICS SR and Collision Angle at Different Collision Speed Sco
 Relationship between ICS SR and Collision Angle at Different Distance.
 
 
-\textbf{Q1. Does the search direction for collision speed change at different collision distances?}
+**Q1. Does the search direction for collision speed change at different collision distances?**
 <!-- % no, collision speed still doesn't have a large impact compared with collision distance -->
 From Figure of relationship between ICS SR and collision distance at different collision speed scope, when examining three specific collision distance groups, the trend for three different collision speed groups remains relatively consistent compared to not considering the collision distance.
 
 
-\textbf{Q2. Does the search direction for collision distance change at different collision speed scopes?}
+**Q2. Does the search direction for collision distance change at different collision speed scopes?**
 Figure of relationship between ICS SR and collision speed at different collision distance scope shows the trends in the SR across different collision distances for three collision speed scopes.
 The observed patterns strongly support the conclusion made above regarding the impact of collision distance as a single feature.
 In most scenarios, a high collision speed consistently results in more ICSs when combined with a far collision distance.
@@ -151,14 +151,14 @@ Except for PCF, a combination of close collision distance and high collision spe
 
 
 
-\textbf{Q3. Does the search direction for collision angle change at different collision speed scopes?}
+**Q3. Does the search direction for collision angle change at different collision speed scopes?**
 The relationship between ICS occurrences and the collision angle, as depicted in Figure of relationship between ICS SR and collision angle at different collision speed scope, remains largely unchanged across different collision speed conditions compared to the trend without considering the effect of collision speed.
 The effective search directions for the collision angle remain consistent across different speed scopes, similar to when considering the collision angle independently. 
 In scenario InC, a distinct data trend difference at low collision speed is observed at positive collision angles.
 However, since the pattern is not observed in other scenarios, it is likely attributed to data noise.
 
 
-\textbf{Q4. Does the search direction for collision angle change at different collision distance scopes?} 
+**Q4. Does the search direction for collision angle change at different collision distance scopes?**
 
 When considering the variations of collision angle across different collision distances, the observed data trend differs slightly from considering collision angle alone.
 In scenarios LC, PSF, and InC, the data aligns with the trend of increasing collision angle, bringing more ICSs.
